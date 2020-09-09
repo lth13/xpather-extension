@@ -1,8 +1,8 @@
 {
-	"name": "XPather",
+	"name": "SocialBox XPather",
 	"short_name": "XPather",
 	"description": "Chrome extension for XPath operations on current document, reliable and easy to use with fully featured XPath 2.0 support.",
-	"author": "Bartek 'Simek' Kaszubowski",
+	"author": "Thanh Huyen",
 	"homepage_url": "https://github.com/lth13/xpather-extension",
 	"version": "0.7.6",
 

@@ -2,7 +2,7 @@
 	position: fixed;
 	top: 0;
 	left: 0;
-	z-index: 10000000;
+	z-index: 100000000;
 	display: none;
 	box-sizing: border-box;
 	padding: 0 246px 0 52px;
@@ -81,7 +81,7 @@
 	position: fixed;
 	top: 0;
 	right: 0;
-	z-index: 9999999;
+	z-index: 999999999;
 	display: none;
 	overflow: hidden;
 	box-sizing: border-box;
@@ -219,7 +219,7 @@
 .xpather-highlight, 
 .xpather-highlight-with-sepia, 
 .xpather-text-hightlight {
-	z-index: 99999;
+	z-index: 99999999;
 	border-bottom: 1px solid rgb(170, 130, 10);
 	background-color: rgba(237, 194, 20, .25);
 	text-shadow: none;
