@@ -9,8 +9,8 @@
 	"browser_action": {
 		"default_title": "Toggle XPather",
 		"default_icon": {
-			"19": "img/icon19.png",
-			"38": "img/icon38.png"
+			"19": "img/icon19-01.png",
+			"38": "img/icon38-01.png"
 		}
 	},
 
@@ -71,9 +71,9 @@
 	],
 
 	"icons": {
-		"16": "img/icon16.png",
-		"48": "img/icon48.png",
-		"128": "img/icon128.png"
+		"16": "img/icon16-01.png",
+		"48": "img/icon48-01.png",
+		"128": "img/icon128-01.png"
 	},
 
 	"web_accessible_resources": [
